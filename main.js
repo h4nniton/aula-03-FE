@@ -52,3 +52,5 @@ function media () {
 botaoSomar.addEventListener('click', somar)
 botaoIdentificar.addEventListener('click', identificar)
 botaoMedia.addEventListener('click', media)
+
+/** Fazendo exercício D !!! */
