@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 32px;
+    gap: 16px;
+}
+
+.item {
+    background-color: #86895d;
+    height: 50px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 32px;
+}
+
+.input {
+    height: 0px;
+}
+
+.button {
+    padding: 2px 8px;
+}
+
+.resultado {
+    width: 75px;
+    height: 20px;
+    background-color: #54582f;
+    color: white;
+}
